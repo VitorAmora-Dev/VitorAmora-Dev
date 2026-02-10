@@ -3,22 +3,7 @@
 **`Desenvolvedor de software`**
 
 Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciencias da computação no La salle. Sou apaixonado por tecnologia e sempre busco me atualizar e aprender coisas novas.
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+ </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
