@@ -43,7 +43,6 @@ Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 /> 
-/>
 <img 
     align="left" 
     alt="Next.js" 
@@ -52,15 +51,7 @@ Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-/>
+ 
 <img 
     align="left" 
     alt="Git" 
