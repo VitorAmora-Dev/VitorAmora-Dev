@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Vitor Amora
 
 **`Desenvolvedor de software`**
 
