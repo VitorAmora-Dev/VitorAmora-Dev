@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de software`**
 
-Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciencias da computação no La salle. Sou apaixonado por tecnologia e sempre busco me atualizar e aprender coisas novas.
+Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciencias da Computação no La Salle. Sou apaixonado por tecnologia e sempre busco me atualizar e aprender coisas novas.
   
  
 </p>
