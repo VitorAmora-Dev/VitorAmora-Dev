@@ -68,6 +68,11 @@ Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<a href="www.linkedin.com/in/vitor-amora-mattes-03a3a5364" target="_blank">
+<img
+src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_PERFIL_AQUI"
+alt="LinkedIn"
+/>
+</a>
 <br/>
 <br/>
