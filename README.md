@@ -1,85 +1,37 @@
-# 👩🏻‍💻 Vitor Amora
+<h1 align="center">Vitor Amora Mattes</h1>
+<p align="center">
+  <em>Software Engineering Student · Full-Stack Developer in training</em><br/>
+  Porto Alegre, Brazil · Open to internship & remote opportunities
+</p>
 
-**`Desenvolvedor de software`**
-
-Me chamo Vitor Amora Mattes, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciencias da Computação no La Salle. Sou apaixonado por tecnologia e sempre busco me atualizar e aprender coisas novas.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-amora-mattes-03a3a5364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VitorAmora-Dev&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-### 🌐 Contato
+### About
 
-<a href="https://www.linkedin.com/in/vitor-amora-mattes-03a3a5364" target="_blank">
-<img 
-    align="left" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-    alt="LinkedIn" 
-    title="LinkedIn"
-    width="30px" 
-/>
-</a>
+Computer Science student at Universidade La Salle (Brazil), focused on building production-grade web applications and contributing to engineering teams that ship.
 
-<br/>
+- 🎯 Currently building REST APIs and full-stack applications with **Node.js**, **TypeScript**, and **Next.js**
+- 🔐 Pursuing the **ISC² Certified in Cybersecurity (CC)** certification
+- 🌎 Studying English at C1 level — preparing for an international immersion program in Toronto
+- 📫 Reach me at **[your.email@example.com](mailto:your.email@example.com)**
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
